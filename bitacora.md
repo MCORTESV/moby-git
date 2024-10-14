@@ -1,3 +1,3 @@
 # Cuaderno de bitácora - Ejercicio 1 Curso git
-1. Dia 1 - Me he encontrado a este tipo por el camino. No pinta bien... ![alt text](Darth_Vader.jpg)
-[^1]: Final de la entrada
+1. Día 1 - Me he encontrado a este tipo por el camino ![alt text](Darth_Vader.jpg) La cosa no pinta bien...
+2. Día 2 - Sigo vivo
